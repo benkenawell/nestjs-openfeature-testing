@@ -1,0 +1,12 @@
+{
+  "name": "nest-openfeature",
+  "version": "0.0.1",
+  "description": "Minimal testing repo for NestJS OpenFeature repo",
+  "license": "ISC",
+  "author": "Ben Kenawell",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
